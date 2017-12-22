@@ -3,17 +3,22 @@ layout: page
 title: HMT editing principles
 ---
 
-Essential concepts:
+
+## Overview
 
 
--   citable scholarship
+
+
+## Contents
+
+-   [citable scholarship](citation)
 -   digital editing
 -   diplomatic editions
 -   modelling content of citable texts
 
 
+
 ## See also
 
--   representation of these principles in XML:  <https://homermultitext.github.io/hmt-editors-guide>
--   code library representing text content following these principles:  <https://homermultitext.github.io/hmt-textmodel>
--   utilities for validating your work following these principles:  <https://homermultitext.github.io/hmt-mom>
+-   [how to encode HMT editions](https://homermultitext.github.io/hmt-editors-guide) following these principles
+-   [how to use HMT code libraries](https://homermultitext.github.io/hmt-textmodel) implementing these principles
